@@ -2,3 +2,4 @@ dublin
 edinburgh
 madrid
 moscow
+beijing
