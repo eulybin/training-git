@@ -1,2 +1,4 @@
 pasta
 cereal
+banana
+nuts
