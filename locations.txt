@@ -1,2 +1,4 @@
 dublin
 edinburgh
+madrid
+moscow
