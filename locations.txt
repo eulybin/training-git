@@ -5,3 +5,6 @@ moscow
 beijing
 seoul
 hanoi
+
+sydney
+jakarta
