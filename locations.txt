@@ -3,3 +3,5 @@ edinburgh
 madrid
 moscow
 beijing
+seoul
+hanoi
