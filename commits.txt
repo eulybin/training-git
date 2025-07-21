@@ -1,6 +1,0 @@
-FIRST COMMIT
-SECOND COMMIT
-THIRD COMMIT
-tags were added and pushed to origin
-using some aliases
-and another one
