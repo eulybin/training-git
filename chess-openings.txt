@@ -4,3 +4,7 @@ vienna opening
 openings to learn:
 the glek system
 the alien gambit
+
+abandoned openigns:
+sicilian defense
+the alekhine defense
